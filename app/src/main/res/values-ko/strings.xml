@@ -46,7 +46,7 @@
     <string name="source_code">소스 코드</string>
     <string name="about">정보</string>
     <string name="customization">사용자화</string>
-    <string name="source_code_desc">Accrescent의 소스 코드 보기</string>
+    <string name="source_code_desc">FeloStore의 소스 코드 보기</string>
     <string name="open_link">링크 열기</string>
     <string name="no">아니오</string>
     <string name="yes">예</string>
@@ -67,6 +67,6 @@
     <string name="back_button">뒤로 가기</string>
     <string name="no_description_provided">(설명 제공 안함)</string>
     <string name="donate">기부금</string>
-    <string name="donate_desc">Accrescent 지원을 위해 기부</string>
+    <string name="donate_desc">FeloStore 지원을 위해 기부</string>
     <string name="installed_from_another_source">다른 소스에서 설치된 앱</string>
 </resources>

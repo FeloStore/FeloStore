@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_list">アプリ</string>
     <string name="app_updates">アップデート</string>
@@ -15,7 +15,7 @@
     <string name="couldnt_open_app">アプリを開けません</string>
     <string name="automatic_updates">自動アップデート</string>
     <string name="failed_decode_repodata">リポジトリデータのデコードに失敗しました: %1$s</string>
-    <string name="source_code_desc">Accrescent のソースコードを表示</string>
+    <string name="source_code_desc">FeloStore のソースコードを表示</string>
     <string name="update_failure">アップデート失敗</string>
     <string name="up_to_date">すべてのアプリが最新の状態です</string>
     <string name="app_verification_failed">アプリの検証失敗: %1$s</string>

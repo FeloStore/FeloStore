@@ -44,7 +44,7 @@
     <string name="repodata_timestamp_less">timestamp dei dati del repository inferiore al valore salvato</string>
     <string name="uninstall_blocked">disinstallazione bloccata dall\'amministratore</string>
     <string name="source_code">Codice sorgente</string>
-    <string name="source_code_desc">Visualizza il codice sorgente di Accrescent</string>
+    <string name="source_code_desc">Visualizza il codice sorgente di FeloStore</string>
     <string name="about">Informazioni</string>
     <string name="customization">Personalizzazione</string>
     <string name="open_link">Apri il link</string>
@@ -68,5 +68,5 @@
     <string name="no_description_provided">(nessuna descrizione fornita)</string>
     <string name="donate">Donare</string>
     <string name="installed_from_another_source">App installata da un\'altra fonte</string>
-    <string name="donate_desc">Fai una donazione per sostenere Accrescent</string>
+    <string name="donate_desc">Fai una donazione per sostenere FeloStore</string>
 </resources>

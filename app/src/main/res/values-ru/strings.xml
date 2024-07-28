@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_list">Приложения</string>
     <string name="app_updates">Обновления</string>
@@ -40,7 +40,7 @@
     <string name="install_blocked">установка заблокирована администратором</string>
     <string name="source_code">Исходный код</string>
     <string name="open_link">Открыть ссылку</string>
-    <string name="source_code_desc">Посмотреть исходный код Accrescent</string>
+    <string name="source_code_desc">Посмотреть исходный код FeloStore</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>
     <string name="search">Поиск</string>
@@ -68,6 +68,6 @@
     <string name="no_description_provided">(описание не было предоставлено)</string>
     <string name="installed_from_another_source">Приложение установлено из другого источника</string>
     <string name="donate">Пожертвовать</string>
-    <string name="donate_desc">Внесите материальный вклад в разработку Accrescent</string>
+    <string name="donate_desc">Внесите материальный вклад в разработку FeloStore</string>
     <string name="swipe_refreshing">Обновление контента…</string>
 </resources>

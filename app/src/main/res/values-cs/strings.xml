@@ -55,7 +55,7 @@
     <string name="dynamic_color">Dynamická barva / Material You</string>
     <string name="about">O aplikaci</string>
     <string name="source_code">Zdrojový kód</string>
-    <string name="source_code_desc">Zobrazit zdrojový kód Accrescentu</string>
+    <string name="source_code_desc">Zobrazit zdrojový kód FeloStoreu</string>
     <string name="open_link">Otevřít odkaz</string>
     <string name="couldnt_open_appinfo">Nelze otevřít AppInfo</string>
     <string name="network_error">Chyba sítě: %1$s</string>

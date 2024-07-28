@@ -12,5 +12,5 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-rootProject.name = "Accrescent"
+rootProject.name = "FeloStore"
 include(":app")

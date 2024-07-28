@@ -49,7 +49,7 @@
     <string name="dynamic_color_desc">Nustatyti programėlės spalvą pagal sistemos spalvų paletę</string>
     <string name="about">Apie</string>
     <string name="source_code">Pirminis kodas</string>
-    <string name="source_code_desc">Peržiūrėkite „Accrescent“ šaltinio kodą</string>
+    <string name="source_code_desc">Peržiūrėkite „FeloStore“ šaltinio kodą</string>
     <string name="open_link">Atidaryti nuorodą</string>
     <string name="cant_find_app">Apgailėstaujame, nepavyko rasti šios programėlės</string>
     <string name="couldnt_open_appinfo">Nepavyko atidaryti Programos informacijos</string>

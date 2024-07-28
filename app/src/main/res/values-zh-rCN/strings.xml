@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_list">应用列表</string>
     <string name="installed">已安装</string>
@@ -43,7 +43,7 @@
     <string name="sig_verify_failed">数字签名验证失败</string>
     <string name="install_blocked">安装被管理员阻止</string>
     <string name="uninstall_blocked">卸载被管理员阻止</string>
-    <string name="source_code_desc">查看 Accrescent 的源代码</string>
+    <string name="source_code_desc">查看 FeloStore 的源代码</string>
     <string name="no">否</string>
     <string name="search">搜索</string>
     <string name="open_link">打开链接</string>
@@ -68,6 +68,6 @@
     <string name="no_description_provided">(未提供描述)</string>
     <string name="installed_from_another_source">从另一来源安装的应用</string>
     <string name="donate">捐赠</string>
-    <string name="donate_desc">捐赠支持 Accrescent</string>
+    <string name="donate_desc">捐赠支持 FeloStore</string>
     <string name="swipe_refreshing">正在刷新内容…</string>
 </resources>

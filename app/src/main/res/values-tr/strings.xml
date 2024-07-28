@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="settings">Ayarlar</string>
     <string name="app_list">Uygulamalar</string>
@@ -25,7 +25,7 @@
     <string name="up_to_date">Tüm uygulamalar güncel</string>
     <string name="installed">Kurulu</string>
     <string name="update">Güncelle</string>
-    <string name="source_code_desc">Accrescent kaynak kodunu görüntüle</string>
+    <string name="source_code_desc">FeloStore kaynak kodunu görüntüle</string>
     <string name="about">Hakkında</string>
     <string name="user_action_required">Kullanıcı eylemi gerekli</string>
     <string name="couldnt_open_app">Uygulama açılamadı</string>
@@ -68,6 +68,6 @@
     <string name="couldnt_open_appinfo">AppInfo açılamadı</string>
     <string name="installed_from_another_source">Başka bir kaynaktan kurulan uygulama</string>
     <string name="donate">Bağış yap</string>
-    <string name="donate_desc">Accrescent\'i desteklemek için bağış yapın</string>
+    <string name="donate_desc">FeloStore\'i desteklemek için bağış yapın</string>
     <string name="swipe_refreshing">İçerik yenileniyor…</string>
 </resources>

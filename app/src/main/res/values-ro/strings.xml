@@ -50,7 +50,7 @@
     <string name="customization">Personalizare</string>
     <string name="source_code">Codul sursă</string>
     <string name="about">Despre</string>
-    <string name="source_code_desc">Vezi codul sursă al Accrescent</string>
+    <string name="source_code_desc">Vezi codul sursă al FeloStore</string>
     <string name="updater">Actualizator</string>
     <string name="network_condition">Starea rețelei</string>
     <string name="unmetered">Nelimitat</string>
@@ -67,6 +67,6 @@
     <string name="couldnt_open_appinfo">Nu s-a putut deschide AppInfo</string>
     <string name="no_description_provided">(fără descriere)</string>
     <string name="donate">Donează</string>
-    <string name="donate_desc">Donează pentru a susține Accrescent</string>
+    <string name="donate_desc">Donează pentru a susține FeloStore</string>
     <string name="installed_from_another_source">Aplicație instalată din altă sursă</string>
 </resources>

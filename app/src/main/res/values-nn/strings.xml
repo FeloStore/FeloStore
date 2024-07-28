@@ -12,7 +12,7 @@
     <string name="customization">Tilpassing</string>
     <string name="dynamic_color">Dynamiske fargar («Material You»)</string>
     <string name="source_code">Kjeldekode</string>
-    <string name="source_code_desc">Vis kjeldekoden til Accrescent</string>
+    <string name="source_code_desc">Vis kjeldekoden til FeloStore</string>
     <string name="open_link">Opna lenkje</string>
     <string name="dynamic_color_desc">Fargelegg appen ved å bruka systemet sin fargepalett</string>
     <string name="up_to_date">Alle appane er oppdaterte</string>
@@ -68,6 +68,6 @@
     <string name="installed_from_another_source">Appen er installert frå ei anna kjelde</string>
     <string name="update_success">%1$s er no oppdatert.</string>
     <string name="donate">Gje pengegåve</string>
-    <string name="donate_desc">Gje ei pengegåve til støtte for Accrescent</string>
+    <string name="donate_desc">Gje ei pengegåve til støtte for FeloStore</string>
     <string name="swipe_refreshing">Oppdaterer innhald …</string>
 </resources>

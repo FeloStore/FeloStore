@@ -38,12 +38,12 @@ android {
         }
     }
 
-    namespace = "app.accrescent.client"
+    namespace = "app.FeloStore.client"
     compileSdk = 34
     buildToolsVersion = "34.0.0"
 
     defaultConfig {
-        applicationId = "app.accrescent.client"
+        applicationId = "app.FeloStore.client"
         minSdk = 29
         targetSdk = 34
         versionCode = 46

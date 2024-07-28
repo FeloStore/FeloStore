@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="no_app_signers">підписантів застосунку не знайдено.
 \nОчікується: %1$s</string>
@@ -13,7 +13,7 @@
     <string name="open">Відкрити</string>
     <string name="customization">Кастомізація</string>
     <string name="about">Про застосунок</string>
-    <string name="source_code_desc">Перегляньте вихідний код Accrescent</string>
+    <string name="source_code_desc">Перегляньте вихідний код FeloStore</string>
     <string name="no_apps_installed">Немає встановлених застосунків</string>
     <string name="up_to_date">Всі застосунки оновлені</string>
     <string name="network_error">Помилка мережі: %1$s</string>

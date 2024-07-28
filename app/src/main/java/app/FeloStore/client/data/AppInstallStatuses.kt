@@ -1,0 +1,11 @@
+package app.FeloStore.client.data
+
+import androidx.compose.runtime.mutableStateMapOf
+import javax.inject.Inject
+import javax.inject.Singleton
+
+@Singleton
+class AppInstallStatuses @Inject constructor() {
+    val statuses = mutableStateMapOf<String, InstallStatus>()
+    val downloadProgresses = mutableStateMapOf<String, DownloadProgress>()
+}

@@ -45,7 +45,7 @@
     <string name="swipe_refresh">Omlaag vegen om te vernieuwen</string>
     <string name="about">Over</string>
     <string name="source_code">Broncode</string>
-    <string name="source_code_desc">Accrescent\'s broncode weergegeven</string>
+    <string name="source_code_desc">FeloStore\'s broncode weergegeven</string>
     <string name="open_link">Koppeling openen</string>
     <string name="customization">Maatwerk</string>
     <string name="search">Zoeken</string>
@@ -68,6 +68,6 @@
     <string name="no_description_provided">(geen beschrijving beschikbaar)</string>
     <string name="installed_from_another_source">App geïnstalleerd van andere bron</string>
     <string name="donate">Doneren</string>
-    <string name="donate_desc">Steun Accrescent met een donatie</string>
+    <string name="donate_desc">Steun FeloStore met een donatie</string>
     <string name="swipe_refreshing">Inhoud vernieuwen…</string>
 </resources>
